@@ -151,8 +151,8 @@ h1{
 }
 
 .projetos-imagem{
-    height: 100px;
-    width: 50%;    
+    height: 400px;
+    width: 100%;    
     object-fit: cover;
 }
 
