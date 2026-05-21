@@ -106,7 +106,7 @@ h1{
     max-width: 200px;
     margin: 0 auto;
     border-radius: 16px;
-    border: 1px solid var(--vidro);
+    border: 15px solid var(--vidro);
     backdrop-filter: blur(10px);
     background: rgba(255, 255, 255, 0.05);
 }
